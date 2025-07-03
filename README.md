@@ -1,5 +1,5 @@
 # stress_estimation003
-#about_model
+# About_model
 i made two model which predict the stress level of the person based on some inputes like ["Social_interaction_score","gender","student_type","sleep_quality","sleephoursimputed","screentimeimputedinhours","physicalactmin","moodscore"]. from this model we can predict the stress level of the person ["Low":0,"Medium":1,"High":2] so that early precautions can be taken to minimise it.In today's time majority of individual is suffering from some kind of stress and mental hardships.this is just a small step to cure it as soon as possible. 
 My first model:model.lr
 -it use logistic regression for prediction
